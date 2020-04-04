@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/onTimeFood/static/css/main.0f13c0a6.chunk.css",
+    "main.js": "/onTimeFood/static/js/main.98e42b1f.chunk.js",
+    "main.js.map": "/onTimeFood/static/js/main.98e42b1f.chunk.js.map",
+    "runtime-main.js": "/onTimeFood/static/js/runtime-main.ee181199.js",
+    "runtime-main.js.map": "/onTimeFood/static/js/runtime-main.ee181199.js.map",
+    "static/css/2.89f067aa.chunk.css": "/onTimeFood/static/css/2.89f067aa.chunk.css",
+    "static/js/2.74881e0b.chunk.js": "/onTimeFood/static/js/2.74881e0b.chunk.js",
+    "static/js/2.74881e0b.chunk.js.map": "/onTimeFood/static/js/2.74881e0b.chunk.js.map",
+    "index.html": "/onTimeFood/index.html",
+    "precache-manifest.b3b60a2a85cfb498af9205be589d1b44.js": "/onTimeFood/precache-manifest.b3b60a2a85cfb498af9205be589d1b44.js",
+    "service-worker.js": "/onTimeFood/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/onTimeFood/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.0f13c0a6.chunk.css.map": "/onTimeFood/static/css/main.0f13c0a6.chunk.css.map",
+    "static/js/2.74881e0b.chunk.js.LICENSE.txt": "/onTimeFood/static/js/2.74881e0b.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/onTimeFood/static/media/logo.72e68005.png",
+    "static/media/main.css": "/onTimeFood/static/media/messy-pizza-on-a-black-table.aa89c7e0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee181199.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.74881e0b.chunk.js",
+    "static/css/main.0f13c0a6.chunk.css",
+    "static/js/main.98e42b1f.chunk.js"
+  ]
+}
