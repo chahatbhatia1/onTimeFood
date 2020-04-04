@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Pizza",
+    "price": 275,
+    "imgsrc": "https://images.pexels.com/photos/724216/pexels-photo-724216.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "id": 1,
+    "isMostOrdered": true,
+    "quantity": 0
+  },
+  {
+    "name": "Burger",
+    "price": 79,
+    "imgsrc": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=752&q=80",
+    "id": 2,
+    "isMostOrdered": true,
+    "quantity": 0
+  },
+
+  {
+    "name": "Fries",
+    "price": 250,
+    "imgsrc": "https://images.unsplash.com/photo-1518013431117-eb1465fa5752?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80",
+    "id": 3,
+    "isMostOrdered": false,
+    "quantity": 0
+  },
+
+  {
+    "name": "Italian",
+    "price": 200,
+    "imgsrc": "https://images.pexels.com/photos/803963/pexels-photo-803963.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=350",
+    "id": 4,
+    "isMostOrdered": true,
+    "quantity": 0
+  },
+  {
+    "name": "Icecreams",
+    "price": 99,
+    "imgsrc": "https://images.pexels.com/photos/461430/pexels-photo-461430.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=350",
+    "id": 5,
+    "isMostOrdered": false,
+    "quantity": 0
+  },
+  {
+    "name": "Juice",
+    "price": 60,
+    "imgsrc": "https://images.pexels.com/photos/109275/pexels-photo-109275.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=350",
+    "id": 6,
+    "isMostOrdered": false,
+    "quantity": 0
+  },
+
+  {
+    "name": "Deserts",
+    "price": 145,
+    "imgsrc": "https://images.unsplash.com/photo-1509474520651-53cf6a80536f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+    "id": 7,
+    "isMostOrdered": false,
+    "quantity": 0
+  },
+  {
+    "name": "Dosa",
+    "price": 110,
+    "imgsrc": "https://images.pexels.com/photos/221143/pexels-photo-221143.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "id": 8,
+    "isMostOrdered": true,
+    "quantity": 0
+  },
+
+  {
+    "name": "Parantha",
+    "price": 35,
+    "imgsrc": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "id": 9,
+    "isMostOrdered": false,
+    "quantity": 0
+  },
+  {
+    "name": "Frankie",
+    "price": 75,
+    "imgsrc": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "id": 10,
+    "isMostOrdered": true,
+    "quantity": 0
+  },
+
+  {
+    "name": "Bread",
+    "price": 25,
+    "imgsrc": "https://images.pexels.com/photos/708488/pexels-photo-708488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "id": 11,
+    "isMostOrdered": true,
+    "quantity": 0
+  },
+  {
+    "name": "doughnut",
+    "price": 160,
+    "imgsrc": "https://images.unsplash.com/photo-1568027867737-cedfbcb5e98a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80",
+    "id": 12,
+    "isMostOrdered": false,
+    "quantity": 0
+  },
+
+  {
+    "name": "naan",
+    "price": 65,
+    "imgsrc": "https://images.pexels.com/photos/1117862/pexels-photo-1117862.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "id": 13,
+    "isMostOrdered": false,
+    "quantity": 0
+  },
+  {
+    "name": "cakes",
+    "price": 350,
+    "imgsrc": "https://images.pexels.com/photos/69817/france-confectionery-raspberry-cake-fruit-69817.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "id": 14,
+    "isMostOrdered": true,
+    "quantity": 0
+  },
+  {
+    "name": "fruits",
+    "price": 150,
+    "imgsrc": "https://images.pexels.com/photos/1132047/pexels-photo-1132047.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "id": 15,
+    "isMostOrdered": true,
+    "quantity": 0
+  }
+]

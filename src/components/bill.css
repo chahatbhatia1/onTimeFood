@@ -1,0 +1,40 @@
+.container {
+    margin-top: 100px;
+    background-color: #f2f2f2;
+    padding: 20px 20px 15px 20px;
+    width: 40%;
+    border: 1px solid lightgrey;
+    border-radius: 3px;
+  }
+  
+  span.price {
+    float: right;
+    color: grey;
+  }
+
+
+h2{
+    text-align: center;
+    margin-top: 60px;
+    color: tomato;
+}
+
+.btn-container {
+    height: 40px;
+    width: 40%;
+    margin: 30px auto; 
+    text-align: center;
+}
+
+.btn {
+    color: white;
+    background-color: rgb(243, 32, 32);
+    padding: 10px 10px;
+    font-weight: bold;
+    margin: 0 10px;
+}    
+
+.btn:hover {
+    background-color: rgb(75, 228, 61);
+    color: black;
+}
